@@ -1,0 +1,8 @@
+C:\Users\zzkkd\OneDrive\Рабочий стол\cpp\Project23\x64\Debug\Project23.vcxproj.AssemblyReference.cache
+C:\Users\zzkkd\OneDrive\Рабочий стол\cpp\Project23\x64\Debug\Project23.vcxproj.SuggestedBindingRedirects.cache
+C:\Users\zzkkd\OneDrive\Рабочий стол\cpp\Project23\x64\Debug\Project23.MyForm.resources
+C:\Users\zzkkd\OneDrive\Рабочий стол\cpp\Project23\x64\Debug\Project23.vcxproj.GenerateResource.cache
+C:\Users\zzkkd\OneDrive\Рабочий стол\cpp\Project23\x64\Debug\Project23.exe
+C:\Users\zzkkd\OneDrive\Рабочий стол\cpp\Project23\x64\Debug\Project23.Form1.resources
+C:\Users\zzkkd\OneDrive\Рабочий стол\cpp\Project23\x64\Debug\Project23.Form2.resources
+C:\Users\zzkkd\OneDrive\Рабочий стол\cpp\Project23\x64\Debug\Project23.Form3.resources
